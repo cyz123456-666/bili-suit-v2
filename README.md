@@ -7,7 +7,7 @@
 **请遵守 GPLv3 开源协议！！！**
 
 ## 食用方法
-1. 下载解压 Release 中对应的文件，哪个平台就用哪个
+1. 下载解压 [Release](https://github.com/MikaNyaru/bili-suit-v2/releases) 中对应的文件，哪个平台就用哪个
 2. 填写 `config.json` 中的 `item_id` （装扮ID）
 3. 运行脚本: 在终端中运行 `./bili-suit-tool`, Windows 用户请运行 ./bili-suit-tool.exe
 
